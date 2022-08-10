@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @uandriy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @uandrii
+- 👀 I’m interested in php, python, godot, ai
+- 🌱 I’m currently learning godot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
-uandriy/uandriy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
